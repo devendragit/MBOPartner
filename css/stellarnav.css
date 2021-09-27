@@ -155,7 +155,7 @@ body.stellarnav-noscroll-x { overflow-x: hidden; }
 	.stellarnav ul { position: relative; display: none; }
 }
 
-/* mobile nav */
+/* mobile navigation*/
 @media only screen and (max-width : 420px) {
 	.stellarnav.mobile .call-btn-mobile.third span, .stellarnav.mobile .location-btn-mobile.third span { display: none; }
 }
